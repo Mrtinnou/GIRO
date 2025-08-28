@@ -1,0 +1,37 @@
+[
+    {
+        "id": "CONT001",
+        "lat": -33.4489,
+        "lng": -70.6693,
+        "nivel_llenado": 85,
+        "timestamp": "2025-08-13 14:30:00"
+    },
+    {
+        "id": "CONT002", 
+        "lat": -33.4509,
+        "lng": -70.6670,
+        "nivel_llenado": 25,
+        "timestamp": "2025-08-13 14:25:00"
+    },
+    {
+        "id": "CONT003",
+        "lat": -33.4530,
+        "lng": -70.6650,
+        "nivel_llenado": 60,
+        "timestamp": "2025-08-13 14:20:00"
+    },
+    {
+        "id": "CONT004",
+        "lat": -33.4450,
+        "lng": -70.6720,
+        "nivel_llenado": 90,
+        "timestamp": "2025-08-13 14:15:00"
+    },
+    {
+        "id": "CONT005",
+        "lat": -33.4470,
+        "lng": -70.6700,
+        "nivel_llenado": 15,
+        "timestamp": "2025-08-13 14:10:00"
+    }
+]
